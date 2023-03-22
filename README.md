@@ -10,7 +10,7 @@ Esse Dashboard foi desenvolvido na 2ª aula da Jornada PowerBI da DataB, aula mi
 A base de dados foi obtida de 3 arquivos, sendo um csv, um xlsx e um pdf que estão nesse link 
 
 Link dos modelos editáveis do plano de fundo estão no Figma
-Modelo 1
-https://www.figma.com/community/file/1202319937765161055
-Modelo 2
-https://www.figma.com/community/file/1202787315374444160
+[Modelo 1](https://www.figma.com/community/file/1202319937765161055)
+[Modelo 2](https://www.figma.com/community/file/1202787315374444160)
+
+Todos os arquivos estão nesse repositório, incluindo um json com esquemas de cores para importar no PowerBI.
